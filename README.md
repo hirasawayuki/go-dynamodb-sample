@@ -19,5 +19,5 @@ $ aws dynamodb create-table --endpoint-url http://localhost:8000 --table-name My
 ```
 
 # Reference
-https://github.com/guregu/dynamo#readme
+https://github.com/guregu/dynamo#readme<br>
 https://future-architect.github.io/articles/20200225/
